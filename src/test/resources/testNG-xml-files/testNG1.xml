@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Regression suit" verbose="1" >
+    <test name="Login tests">
+        <classes>
+            <!-- if your class is inside a package, then provide package name -->
+           <class name="com.envision.automation.core.FirstselenuimprogWithTestNG">
+               <methods>
+                   <include name="testCasePositive()"/>
+                   <include name="testcaseNegative()"/>
+               </methods>
+           </class>
+        </classes>
+    </test>
+</suite>
+       
+       

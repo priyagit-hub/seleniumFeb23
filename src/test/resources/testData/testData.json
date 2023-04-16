@@ -1,0 +1,42 @@
+{
+"testCasePositive":[
+{
+  "username": "Admin",
+  "password": "admin123",
+  "name": "Priya"
+},
+  {
+    "username": "Admin123",
+    "password": "admin123",
+    "name": "Sonal"
+  }
+],
+  "RegistrationTestData": [
+    {"firstname": "Priya",
+      "lastName": "Dey",
+      "address": "Toronto"
+    }
+  ],
+  "PaymentGatewayData": [
+    {"ProductNameTo purchase": "ElephantSoftToy",
+      "NoOfProduct": "4"
+    }
+  ],
+
+  "DemoQAStudentRegistrationData": [
+    {"FirstName": "Priyanka",
+      "LastName": "Dey Banerjee",
+      "Email":"priya@gmail.com",
+      "Gender":"Female",
+      "Mobile":"1234567896",
+      "Month":"December",
+      "Year":"2000",
+      "DayOfMonth":"10",
+      "Subjects":"Biology",
+      "Hobbies":"Music",
+      "Currentaddress":"Ontario,Canada",
+      "State":"Haryana",
+      "City":"Panipat"
+    }
+  ]
+}

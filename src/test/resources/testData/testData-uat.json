@@ -1,0 +1,15 @@
+{
+  "testCasePositive":[
+    {
+      "username": "Admin",
+      "password": "admin123",
+      "name": "Priya"
+    }
+  ],
+  "RegistrationTestData": [
+    {"firstname": "Priya",
+      "lastName": "Dey",
+      "address": "Toronto"
+    }
+  ]
+}

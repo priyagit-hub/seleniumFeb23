@@ -1,0 +1,5 @@
+.idea/
+target/**
+src/test/resources/binaries/**
+src/test/resources/screenshots/**
+.DS_Store
